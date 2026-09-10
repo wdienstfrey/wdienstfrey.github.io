@@ -16,3 +16,7 @@ The background image, profile photo, and CV are already included.
 
 ## Current project images
 The four project images supplied by Will are installed as `assets/project-1.jpg` through `assets/project-4.jpg`, in project-page order. The Yellowstone project is not displayed in this version.
+
+
+## v11 changes
+The Photos page has been removed. Project images on `projects.html` now display at their natural aspect ratio without cropping.
